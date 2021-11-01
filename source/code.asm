@@ -50,3 +50,5 @@ includelib \masm32\lib\kernel32.lib
 			retn 0ch
 		
 	end main
+	
+	;miksussy
